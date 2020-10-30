@@ -1,0 +1,9 @@
+<widget id="com.phonegapspain.miapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Abako 1-3</name>
+    <description>
+       Estos son los recursos de 1 periodo 4 es la tercera entrega que se hace al colegio
+    </description>
+    <author email="propositosabako@gmail.com" href="http://www.publicacionesabako.com">
+        abako
+    </author>
+</widget>
